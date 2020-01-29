@@ -12,9 +12,11 @@
 
 [hzwer](https://github.com/hzwer)
 
-[Ruanxingzhi](https://github.com/hzwer/shareOI/issues?q=is%3Apr+author%3ARuanxingzhi)
+[Ruanxingzhi](https://github.com/Ruanxingzhi)
 
-[Trinkle23897](https://github.com/hzwer/shareOI/issues?q=is%3Aissue+is%3Aopen+author%3ATrinkle23897)
+[Trinkle23897](https://github.com/Trinkle23897)
+
+[StudyingFather](https://github.com/StudyingFather)
 
 ## Contents
 
@@ -46,6 +48,7 @@
     │   ├── ACM中的数学问题_林舒.ppt
     │   ├── Fourier transform_郭晓旭.pdf
     │   ├── IOI2013与博弈论_王康宁.pptx
+    │   ├── OI 中的超现实数和不平等博弈问题_杜瑜皓.pdf
     │   ├── OI中的数学_金靖.pptx
     │   ├── OI中的概率_黄涛岸.ppt
     │   ├── 数学_翁家翌 & 黄哲威.pdf
@@ -54,11 +57,14 @@
     │   ├── 数论入门_阮行止.pptx
     │   ├── 数论及其应用_周聿浩 & 黄哲威.pdf
     │   ├── 数学杂题选讲_黄哲威.pdf
+    │   ├── 计数问题选讲_陈立杰.pdf
     │   ├── 一些数学知识_王若松.ppt
     │   ├── 莫比乌斯反演_王天懿.ppt
     │   ├── 多项式及求和_杜瑜皓.pptx
     │   ├── 概率与随机化算法_钟诚.pptx
     │   ├── 对拟阵的初步研究_刘雨辰.pdf
+    │   ├── 简单易懂的质数筛法_陈牧歌.pdf
+    │   ├── 计数与期望问题选讲_陈立杰.pdf
     │   ├── 线性筛法与积性函数_贾志鹏.pptx
     │   ├── 组合游戏略述——浅谈SG游戏的若干拓展及变形_贾志豪.ppt
     │   ├── 组合数学——母函数与递推_朱全民.ppt
@@ -142,6 +148,7 @@
         ├── 计算几何教程_北大ACM.pptx
         ├── 计算几何讨论_胡伟栋.pptx
         ├── 计算几何及其应用_林厚从.ppt
-        └── 半平面交的新算法及其实用价值_朱泽园.ppt
+        ├── 半平面交的新算法及其实用价值_朱泽园.ppt
+        └── 二维计算几何相关算法与实战应用_徐明宽.pptx
 
 
