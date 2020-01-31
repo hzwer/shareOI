@@ -1,24 +1,27 @@
-# OI & ACM 课件分享
+# 算法竞赛课件分享
 
-收集来自互联网上公开分享的信息竞赛学习课件
+收集来自互联网上的算法竞赛学习课件
 
-欢迎大家贡献，命名格式，题目_作者，接收 ppt 或 pdf 格式
+欢迎大家贡献，命名格式，题目_作者，接收 ppt 和 pdf 格式 
 
 如有侵权，麻烦提 Issues 或联系 hzwer@pku.edu.cn 删改
 
 不便之处，敬请谅解
 
-## Contributor
+**贡献者**
 
-[hzwer](https://github.com/hzwer)
+[hzwer](https://github.com/hzwer) [Ruanxingzhi](https://github.com/Ruanxingzhi) [Trinkle23897](https://github.com/Trinkle23897) [StudyingFather](https://github.com/StudyingFather)
 
-[Ruanxingzhi](https://github.com/Ruanxingzhi)
+## 推荐阅读
+[洛谷日报](https://www.luogu.com.cn/discuss/show/179788)
 
-[Trinkle23897](https://github.com/Trinkle23897)
+[OI-wiki](https://github.com/OI-wiki/OI-wiki/)
 
-[StudyingFather](https://github.com/StudyingFather)
+[OIslide by n+e](https://github.com/Trinkle23897/oi_slides)
 
-## Contents
+[NOIP吧资料](http://tieba.baidu.com/p/3257519559)
+
+## 目录
 
     ├── 图论
     │   ├── 图论_李煜东.pptx
