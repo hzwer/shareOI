@@ -19,6 +19,8 @@
 
 [OIslide by n+e](https://github.com/Trinkle23897/oi_slides)
 
+[OIslide by huzecong](https://github.com/huzecong/oi-slides)
+
 [NOIP吧资料](http://tieba.baidu.com/p/3257519559)
 
 ## 目录
