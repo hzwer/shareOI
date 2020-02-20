@@ -10,7 +10,7 @@
 
 **贡献者**
 
-[hzwer](https://github.com/hzwer) [P2Oileen](https://github.com/P2Oileen) [Ruanxingzhi](https://github.com/Ruanxingzhi) [Trinkle23897](https://github.com/Trinkle23897) [StudyingFather](https://github.com/StudyingFather)
+[hzwer](https://github.com/hzwer) [P2Oileen](https://github.com/P2Oileen) [Ruanxingzhi](https://github.com/Ruanxingzhi) [Trinkle23897](https://github.com/Trinkle23897) [StudyingFather](https://github.com/StudyingFather) [namasikanam](https://github.com/namasikanam)
 
 ## 推荐阅读
 [洛谷日报](https://www.luogu.com.cn/discuss/show/179788)
