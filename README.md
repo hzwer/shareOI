@@ -198,5 +198,6 @@
         ├── 半平面交的新算法及其实用价值_朱泽园.ppt
         └── 二维计算几何相关算法与实战应用_徐明宽.pptx
 
+感谢支持 Paypal Sponsor: https://www.paypal.com/paypalme/hzwer
 
-
+<img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/5h3609p1.png"><img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/yi3kcwnw.png">
