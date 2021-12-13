@@ -1,27 +1,17 @@
 # 算法竞赛课件分享
 
-收集来自互联网上的算法竞赛学习课件
+收集互联网上的算法竞赛学习课件
 
 欢迎大家贡献，命名格式，题目_作者，接收 ppt 和 pdf 格式 
 
-如有侵权，麻烦提 Issues 或联系 hzwer@pku.edu.cn 删改
-
-不便之处，敬请谅解
+如有侵权，麻烦提 Issue 或联系 hzwer@pku.edu.cn 删改
 
 **贡献者**
 
-[hzwer](https://github.com/hzwer) [P2Oileen](https://github.com/P2Oileen) [Ruanxingzhi](https://github.com/Ruanxingzhi) [Trinkle23897](https://github.com/Trinkle23897) [StudyingFather](https://github.com/StudyingFather) [namasikanam](https://github.com/namasikanam)
+[hzwer](https://github.com/hzwer) | [P2Oileen](https://github.com/P2Oileen) | [Ruanxingzhi](https://github.com/Ruanxingzhi) | [Trinkle23897](https://github.com/Trinkle23897) | [StudyingFather](https://github.com/StudyingFather) | [namasikanam](https://github.com/namasikanam)
 
 ## 推荐阅读
-[洛谷日报](https://www.luogu.com.cn/discuss/show/179788)
-
-[OI-wiki](https://github.com/OI-wiki/OI-wiki/)
-
-[OIslide by n+e](https://github.com/Trinkle23897/oi_slides)
-
-[OIslide by huzecong](https://github.com/huzecong/oi-slides)
-
-[NOIP吧资料](http://tieba.baidu.com/p/3257519559)
+[洛谷日报](https://www.luogu.com.cn/discuss/show/179788) | [OI-wiki](https://github.com/OI-wiki/OI-wiki/) | [OIslide by n+e](https://github.com/Trinkle23897/oi_slides) | [OIslide by huzecong](https://github.com/huzecong/oi-slides) | [NOIP吧资料](http://tieba.baidu.com/p/3257519559)
 
 ## 目录
 
