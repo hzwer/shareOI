@@ -4,7 +4,7 @@
 
 欢迎大家贡献，命名格式，题目_作者，接收 ppt 和 pdf 格式 
 
-如有侵权，麻烦提 Issue 或联系 hzwer@pku.edu.cn 删改
+如有侵权，麻烦提 Issue 
 
 **贡献者**
 
@@ -187,7 +187,3 @@
         ├── 计算几何及其应用_林厚从.ppt
         ├── 半平面交的新算法及其实用价值_朱泽园.ppt
         └── 二维计算几何相关算法与实战应用_徐明宽.pptx
-
-感谢支持 Paypal Sponsor: https://www.paypal.com/paypalme/hzwer
-
-<img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/5h3609p1.png"><img width="160" alt="image" src="https://cdn.luogu.com.cn/upload/image_hosting/yi3kcwnw.png">
