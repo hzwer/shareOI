@@ -1,6 +1,6 @@
 # 算法竞赛课件分享
 
-收集互联网上的算法竞赛学习课件
+收集互联网上的算法竞赛学习课件 [DeepWiki](https://deepwiki.com/hzwer/shareOI)
 
 欢迎大家贡献，命名格式，题目_作者，接收 ppt 和 pdf 格式 
 
